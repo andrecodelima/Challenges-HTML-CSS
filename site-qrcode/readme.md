@@ -1,5 +1,5 @@
 <h1 align="center"> Site - QRCODE / CSS</h1>
-<p> 🚀 Realizar a cópia de um modelo de site conforme mostra a imagem a baixo.</p>
+<p> 🚀 Realizar a cópia de um modelo de site conforme modelo a baixo.</p>
 <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/qh97gysgjrzqyqlig2al.jpg">
 
     
