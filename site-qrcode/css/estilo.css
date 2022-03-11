@@ -7,7 +7,7 @@ body{
 #content{
     background-color: hsl(212, 45%, 89%);
     width: 1440px;
-    height: 920px;
+    height: 820px;
     border: 1px solid white; /*Pq quando tiro essa propiedade a div desce?*/
     margin: auto;
     position: static;
@@ -19,7 +19,7 @@ body{
     height: 450px;
     border-radius: 20px;
     margin: auto;
-    margin-top: 180px;
+    margin-top: 11%;
     padding-top: 17px;
     padding-left: 17px;
     padding-right: 17px;
@@ -42,10 +42,11 @@ img{
     color: hsl(218, 44%, 22%)
 }
 .paragrafo_abaixo{
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Outfit';
     font-size: 15px;
     font-weight: 400;
     text-align: center;
-    color: hsl(220, 15%, 55%);
+    color: hsl(220, 5%, 75%);
+
 }
 
