@@ -1,4 +1,3 @@
-
 <h1>Challenge - QR Code</h1>
 
 <h2>Visão Geral</h2>
