@@ -9,7 +9,7 @@ body{
     background-color: hsl(212, 45%, 89%);
     width: 1440px;
     height: 920px;
-    border: 1px solid white; /*Pq quando tiro essa propiedade a div desce?*/
+    border: 1px solid white; 
     margin: auto;
     position: static;
 }
