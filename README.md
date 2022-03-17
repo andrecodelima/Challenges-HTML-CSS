@@ -14,7 +14,7 @@
 <br>
 
 <h3 align="center" >Tecnologias</h3>
-    <p>As seguintes Tecnologias foram usadas nesse projeto: </p>
+    <p>As seguintes Tecnologias que serão usadas nesse projeto: </p>
     <ul>
         <li>[html5] (https://www.w3schools.com/html/)</li>
         <li>[CSS3] (https://www.w3schools.com/css/)</li>
